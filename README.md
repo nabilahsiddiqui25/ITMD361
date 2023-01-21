@@ -1,2 +1,2 @@
-# ITMD 361: Lab-1
+# itmd 361: lab-1
 This contains my first lab assignment. 
